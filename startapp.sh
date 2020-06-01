@@ -1,2 +1,2 @@
 #!/bin/sh
-exec /usr/bin/slack
+exec /usr/bin/htop
