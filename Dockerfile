@@ -1,5 +1,5 @@
 # Pull base image.
-FROM jlesage/baseimage-gui:alpine
+FROM jlesage/baseimage-gui:alpine-3.11
 
 # Install slack.
 RUN add-pkg slack
